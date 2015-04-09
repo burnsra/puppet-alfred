@@ -4,7 +4,7 @@
 #
 #   include alfred
 class alfred (
-  $version = '2.5.1_308'
+  $version = '2.6_374'
 ) {
   package { 'Alfred 2':
     provider => 'compressed_app',
